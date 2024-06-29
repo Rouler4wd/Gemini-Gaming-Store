@@ -1,5 +1,5 @@
 # Gaming AI Store
-This project implements a web-based interface using Gradio for a gaming accessories store. Users can browse through a menu of gaming controllers, headsets, keyboards, mice, and accessories, select items with various modifiers, apply discounts using promo codes, and place orders.
+This project implements a web-based interface using Gradio for a gaming accessories store. Users can browse through a menu of gaming controllers, headsets, keyboards, mice, and accessories, select items with various modifiers, apply discounts using promo codes, and place orders. Remember to enter your API key in the code :)
 
 ## Features
 Browse and select from a variety of gaming accessories.
