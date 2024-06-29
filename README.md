@@ -18,11 +18,7 @@ Clone the Repo:
 git clone https://github.com/your-username/gaming-accessories-store.git
 cd gaming-accessories-store
 ```
-
-Install Dependancies:
-```
-pip install -r requirements.txt
-```
+Or you can just copy the code and run it on any IDE :)
 
 Set up your Google API key:
     Obtain a Google API key with access to Generative AI services.
